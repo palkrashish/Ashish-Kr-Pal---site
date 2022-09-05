@@ -49,6 +49,7 @@ body {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color: white;
+    margin-right: 1rem;
 
 }
 
@@ -56,6 +57,7 @@ body {
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
     color: rgb(147, 146, 177);
+    
 
 }
 
